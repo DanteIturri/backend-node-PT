@@ -1,0 +1,18 @@
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+/dist
+/node_modules
+# environment
+.env
+.env.*
+
+# pnpm
+
+pnpm-lock.yaml
+temp_auto_push.bat
+temp_interactive_push.bat

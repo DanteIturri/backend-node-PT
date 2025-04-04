@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Testing
+coverage/
+
+# Static assets
+public/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.*
+*.env.local
+
+# Configuration files
+.eslintrc.js
+.prettierrc
+babel.config.js
+webpack.config.js
+
