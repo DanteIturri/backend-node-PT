@@ -14,4 +14,4 @@ router.post('/register', AuthController.register);
 router.post('/logout', AuthController.logout);
 
 // Ruta protegida
-router.get('/me', authRequired, AuthController.me);<
+router.get('/me', authRequired, AuthController.me);
